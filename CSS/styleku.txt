@@ -1,0 +1,33 @@
+table,tr,td{
+font-family: century gothic;
+color: green;
+border: 0px solid aqua;
+padding: 5px;
+border-collapse: collapse;
+}
+h2{
+    font-family: century gothic;
+color: green;
+}
+.h{
+border: 8px groove aqua;
+padding: 20px;
+}
+.posisi{
+position: absolute;
+margin-left: auto;
+margin-right: auto;
+margin-bottom: auto;
+margin-top: auto;
+left: 0;
+right: 0;
+top: 100px;
+bottom: 0;
+}
+
+h1{font-family: century gothic;
+    background: cyan;
+    color:white;
+    text-align: center;
+    padding: 25px; 
+}
